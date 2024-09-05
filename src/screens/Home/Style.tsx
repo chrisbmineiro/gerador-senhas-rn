@@ -18,4 +18,11 @@ export const styles = StyleSheet.create({
         paddingBottom: 10,
         backgroundColor: '#4D4D4D'
     },
+    inputContainer: {
+        flexDirection: 'column',
+        width: '80%',
+        alignItems: 'center',
+        borderColor: '#ffffff',
+        borderWidth: 2,
+    }
 });
