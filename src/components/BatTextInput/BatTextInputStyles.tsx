@@ -6,7 +6,7 @@ export const styles = StyleSheet.create({
       width: '100%',
       color: '#000000',
       fontSize: 18,
-      height: 40,
+      height: 60,
       borderWidth: 1,
       borderRadius: 5,
       padding: 10,

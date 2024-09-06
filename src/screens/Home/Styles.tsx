@@ -14,15 +14,11 @@ export const styles = StyleSheet.create({
         justifyContent: 'center',
         alignSelf: 'center',
         marginBottom: 60,
-        paddingTop: 20,
-        paddingBottom: 10,
         backgroundColor: '#4D4D4D'
     },
     inputContainer: {
         flexDirection: 'column',
         width: '80%',
         alignItems: 'center',
-        borderColor: '#ffffff',
-        borderWidth: 2,
     }
 });
